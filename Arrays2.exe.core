@@ -1,0 +1,19 @@
+[main] Arrays2 1000 (0) exception: trapped!
+[main] Arrays2 1000 (0) exception: code 0xC0000005 at 0x40108F
+[main] Arrays2 1000 (0) exception: ax 0x91BF740 bx 0x246FDD0 cx 0x61061250 dx 0x246FD80
+[main] Arrays2 1000 (0) exception: si 0x0 di 0x401000 bp 0x246FDB0 sp 0x246FD70
+[main] Arrays2 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] Arrays2 1000 (0) stack: Stack trace:
+[main] Arrays2 1000 (0) stack: frame 0: sp = 0x246F700, pc = 0x6100A2C3
+[main] Arrays2 1000 (0) stack: frame 1: sp = 0x246F73C, pc = 0x77A288E2
+[main] Arrays2 1000 (0) stack: frame 2: sp = 0x246F760, pc = 0x77A288B4
+[main] Arrays2 1000 (0) stack: frame 3: sp = 0x246F828, pc = 0x77A14EE6
+[main] Arrays2 1000 (0) stack: frame 4: sp = 0x246FDB0, pc = 0x61004402
+[main] Arrays2 1000 (0) stack: frame 5: sp = 0x246FF38, pc = 0x61004420
+[main] Arrays2 1000 (0) stack: frame 6: sp = 0x246FF44, pc = 0x41314E
+[main] Arrays2 1000 (0) stack: frame 7: sp = 0x246FF54, pc = 0x40103A
+[main] Arrays2 1000 (0) stack: frame 8: sp = 0x246FF70, pc = 0x772FFA29
+[main] Arrays2 1000 (0) stack: frame 9: sp = 0x246FF80, pc = 0x77A07A9E
+[main] Arrays2 1000 (0) stack: frame 10: sp = 0x246FFDC, pc = 0x77A07A6E
+[main] Arrays2 1000 (0) stack: frame 11: sp = 0x246FFEC, pc = 0x0
+[main] Arrays2 1000 (0) stack: End of stack trace
